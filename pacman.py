@@ -37,4 +37,3 @@ while True:
     for e in pygame.event.get():
         if e.type == pygame.QUIT:
             exit()
-
